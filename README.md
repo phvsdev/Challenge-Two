@@ -43,7 +43,7 @@ A evidência que a app está rodando na EC2 será igual essa página: https://ph
 
 Ao final deste desafio, você terá demonstrado suas habilidades em DevOps, mostrando a capacidade de configurar uma instância EC2 utilizando o Terraform, instalar o Docker, liberar o tráfego necessário e realizar o deploy de um código em um container tudo utilizando IaC. Isso reflete um cenário comum na prática DevOps, onde a automatização e a orquestração de infraestrutura são fundamentais para o desenvolvimento e implantação de aplicações modernas e escaláveis.
 
-  <img align="center" alt="GIF" src="https://www.datocms-assets.com/2885/1620155439-blog-library-product-terraform-aws-logomarks.jpg" width="" height="600" />
+  <img align="center" alt="GIF" src="https://www.datocms-assets.com/2885/1620155439-blog-library-product-terraform-aws-logomarks.jpg"/>
 
 <p></p>
 
