@@ -2,9 +2,9 @@
   <h1 align="center">DevOps - Challenge Two</h1>
 </p>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 ## Deploy Site do Desafio em EC2 na AWS utilizando o Terraform, Docker. 
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 Neste desafio DevOps, você será desafiado a criar e configurar uma instância EC2 na no Cloud Provider Amazon Web Services (AWS), instalar o Docker nessa instância e realizar o deploy de um código contido nesse repositório, tudo isso utilizando o [Terraform](https://www.terraform.io/).
 
