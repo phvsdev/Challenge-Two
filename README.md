@@ -47,4 +47,4 @@ Ao final deste desafio, você terá demonstrado suas habilidades em DevOps, most
 
 <p></p>
 
-### Lembre-se de que é necessário ter o Terraform instalado e configurado corretamente, com as credenciais da AWS adequadas para provisionar os recursos na nuvem. Além disso, certifique-se de que os scripts de provisionamento e os arquivos necessários estejam disponíveis no momento da execução do Terraform.
+## Lembre-se de que é necessário ter o Terraform instalado e configurado corretamente, com as credenciais da AWS adequadas para provisionar os recursos na nuvem. Além disso, certifique-se de que os scripts de provisionamento e os arquivos necessários estejam disponíveis no momento da execução do Terraform.
